@@ -25,5 +25,5 @@ Eu sou estudande de Engenharia da Computação na Unasp São Paulo, atualmente e
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoSutil123&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVMSouza&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVMSouza&theme=dark&layout=compact)
