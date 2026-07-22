@@ -4,7 +4,7 @@ Eu sou estudande de Engenharia da Computação na Unasp São Paulo, atualmente e
 
 🔭 Atualmente estou procurando desenvolver alguns projeto de Back-end, vou começar um agora que se trata de uma loja/biblioteca de jogos em Java
 
-💬 Caso queiram entrar em contato comigo, tem meu Instragra, meu LinkedIn ou meu Email
+💬 Caso queiram entrar em contato comigo, tem meu Instragram, meu LinkedIn ou meu Email
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-platic&logo=instagram&logoColor=white&link=https://www.instagram.com/john._.souza14/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-platic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-vitor-664661304)
