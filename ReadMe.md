@@ -8,7 +8,7 @@ Eu sou estudande de Engenharia da Computação na Unasp São Paulo, atualmente e
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-platic&logo=instagram&logoColor=white&link=https://www.instagram.com/john._.souza14/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-platic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-vitor-664661304)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-plastic&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/9/?pli=1#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-plastic&logo=gmail&logoColor=white)](mailto:jowdevback.end@gmail.com)
 
 ---
 
